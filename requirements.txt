@@ -1,0 +1,6 @@
+asyncio
+discord
+requests
+pyfiglet
+datetime
+aiohttp
